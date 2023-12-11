@@ -1,0 +1,1 @@
+text if .idea/ .gitignore is working
